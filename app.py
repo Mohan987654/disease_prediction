@@ -1,7 +1,7 @@
 import os
 import pickle
 import streamlit as st
-import option_menu
+from streamlit_option_menu import option_menu
 
 st.set_page_config(page_title="Prediction of Disease Outbreaks", layout="wide")
 
